@@ -14,4 +14,4 @@ function newFun(){
     console.log("hey3")
 }
 newFun()
-let ab=0;
+let ab=100;
