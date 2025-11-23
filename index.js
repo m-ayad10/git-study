@@ -6,4 +6,4 @@ function newFun(){
     console.log("hey")
 }
 newFun()
-let ab=0;
+let ab=10;
